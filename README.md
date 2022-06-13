@@ -2,7 +2,7 @@
 
 ### İçerik
 - [Başlıklar](#başlıklar)
-- [Çok satırlı kod bloğu](#cok-satirli-kod-blogu)
+- [Çok satırlı kod bloğu](#çok-satırlı-kod-bloğu)
 - [BETA](#beta)
 	- [Not](#not)
 	- [Uyarı](#uyarı)
@@ -20,6 +20,9 @@ h6 : ###### başlık 6
 ```
 
 ---
+## Tek satırda kod bloğu
+"`asd`"
+örn: `Ctrl + c`
 
 ## Çok satırlı kod bloğu
 ```
