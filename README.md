@@ -19,8 +19,8 @@ h6 : ###### başlık 6
 
 ## Çok satırlı kod bloğu
 ```md
-\`\`\`cpp
-\`\`\`
+\```cpp
+\```
 ```
 ```cpp
 #include <iostream>
