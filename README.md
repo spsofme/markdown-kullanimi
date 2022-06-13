@@ -20,9 +20,14 @@ h6 : ###### başlık 6
 ```
 
 ---
+
 ## Tek satırda kod bloğu
-"`asd`"
+```
+`Ctrl + c`
+```
 örn: `Ctrl + c`
+
+---
 
 ## Çok satırlı kod bloğu
 ```
