@@ -11,6 +11,7 @@
 - [Onay kutusu](#onay-kutusu)
 - [Link oluşturma](#link-oluşturma)
 - [Resim ekleme](#resim-ekleme)
+- [Alıntı yapma](#alıntı-yapma)
 - [Kod blokları](#kod-blokları)
 	- [Satır içi kod](#satır-içi-kod) 
 	- [Kod bloğu](#kod-bloğu)
@@ -99,6 +100,15 @@ title özellikli : [github/spsofme](https://github.com/spsofme "github adresim")
 ```
 ![metin](resim bağlantısı)
 ```
+
+
+
+## Alıntı yapma
+```
+> metin
+```
+örnek:
+> metin
 
 
 
