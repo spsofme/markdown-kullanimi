@@ -5,3 +5,8 @@
 > **Note** <br>
 > Note
 
+> **Warning**
+> Warning
+
+> **Alert**
+> Alert
