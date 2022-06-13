@@ -1,4 +1,4 @@
-# <center> Markdown Notları </center>
+<center> # Markdown Notları </center>
 
 ### İçerik
 - [Başlıklar](#başlıklar)
