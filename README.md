@@ -3,10 +3,15 @@
 ### İçerik
 - [Başlıklar](#başlıklar)
 
-<span style="display:block; text-align:center; color:blue;">deneme</span>
-
 ## Başlıklar
-
+```md
+# başlık 1      : h1
+## başlık 2     : h2
+### başlık 3    : h3
+#### başlık 4   : h4
+##### başlık 5  : h5
+###### başlık 6 : h6
+```
 
 
 > **Note** <br>
