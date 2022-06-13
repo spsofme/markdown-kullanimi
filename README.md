@@ -136,10 +136,14 @@ int main() {
 
 
 ## Daraltılmış bölüm
+```
 <details><summary>Tıkla</summary>
-<p>
-Metin
-</p>
+<p>Metin</p>
+</details>
+```
+örnek:
+<details><summary>Tıkla</summary>
+<p>Metin</p>
 </details>
 
 
