@@ -57,10 +57,10 @@ h6 : ###### başlık 6
 
 
 ## Onay kutusu
-[ ] Ders çalış
-[x] Oyun oyna
-[ ] Evi temizle
-[x] Dinlen
+- [ ] Ders çalış
+- [x] Oyun oyna
+- [ ] Evi temizle
+- [x] Dinlen
 
 
 
