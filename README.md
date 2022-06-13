@@ -2,6 +2,8 @@
 
 ### İçerik
 - [Başlıklar](#başlıklar)
+- [Liste](#liste)
+- [Tablo](#tablo)
 - [Çok satırlı kod bloğu](#çok-satırlı-kod-bloğu)
 - [BETA](#beta)
 	- [Not](#not)
@@ -55,6 +57,10 @@ h6 : ###### başlık 6
 
 
 ## Onay kutusu
+[ ] Ders çalış
+[x] Oyun oyna
+[ ] Evi temizle
+[x] Dinlen
 
 
 
