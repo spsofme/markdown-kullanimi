@@ -35,8 +35,10 @@ h6 : ###### başlık 6
 	- alt eleman 1
 	- alt eleman 2
 
-+ eleman 1
-+ eleman 2
+1. eleman 1
+	1. eleman 1
+	2. eleman 2
+2. eleman 2
 
 ## Tablo
 
