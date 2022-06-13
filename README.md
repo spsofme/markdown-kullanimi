@@ -34,7 +34,7 @@ int main() {
 	cout << "girdiginiz sayi: " << sayi;
 	return 0;
 }
-```
+'```'
 ```
 
 ```cpp
