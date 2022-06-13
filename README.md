@@ -1,7 +1,7 @@
 # Narkdown Notları
 
 ### İçerik
-- [Başlıklar](#basliklar)
+- [Başlıklar](#başlıklar)
 
 
 ## Başlıklar
