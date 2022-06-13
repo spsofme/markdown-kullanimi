@@ -5,12 +5,12 @@
 
 ## Başlıklar
 ```md
-# başlık 1      : h1
-## başlık 2     : h2
-### başlık 3    : h3
-#### başlık 4   : h4
-##### başlık 5  : h5
-###### başlık 6 : h6
+h1 : # başlık 1
+h2 : ## başlık 2
+h3 : ### başlık 3
+h4 : #### başlık 4
+h5 : ##### başlık 5
+h6 : ###### başlık 6
 ```
 
 
