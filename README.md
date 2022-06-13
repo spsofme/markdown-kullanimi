@@ -1,8 +1,7 @@
 # markdown-notlarim
 > {info display text}  
-> Some text.
-{info}
-
+> Some text
 
 > **Note**
-> asdasdasd
+> Note
+
