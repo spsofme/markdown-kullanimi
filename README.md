@@ -4,5 +4,5 @@
 {info}
 
 
-> **info**
+> **Note**
 > asdasdasd
