@@ -5,5 +5,8 @@
 > **Warning** <br>
 > Warning
 
-> **Check**
-> Check
+```c
+int a = 0;
+if (a < 5)
+  a++;
+```
