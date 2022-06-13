@@ -20,8 +20,6 @@
 	- [Uyarı](#uyarı)
 
 ---
-[Bana tıkla!](http://test.com "Test.com'a gider")
-
 
 ## Metin biçimlendirme
 ### Kalın
@@ -90,10 +88,9 @@ h6 : ###### başlık 6
 
 
 ## Link oluşturma
-```
-[metin](link)
-```
-örnek: [github/spsofme](https://github.com/spsofme)
+`[metin](link)` şeklinde link oluşturulabilir. Ayrıca link'e title özelliği eklemek istersek `[metin](link "title")` şeklinde kullanabiliriz.
+normal link     : [github/spsofme](https://github.com/spsofme) <br>
+title özellikli : [github/spsofme](https://github.com/spsofme "github adresim")
 
 
 
