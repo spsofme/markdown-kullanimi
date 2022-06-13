@@ -22,8 +22,8 @@ h6 : ###### başlık 6
 ---
 
 ## Çok satırlı kod bloğu
-```md
-```cpp
+```
+```[dil]
 #include <iostream>
 using namespace std;
 
@@ -34,9 +34,9 @@ int main() {
 	cout << "girdiginiz sayi: " << sayi;
 	return 0;
 }
-'```'
+```.
 ```
-
+örn:
 ```cpp
 #include <iostream>
 using namespace std;
