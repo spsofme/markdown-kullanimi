@@ -1,10 +1,10 @@
 # Narkdown Notları
 
 ### İçerik
-- [Başlıklar](basliklar)
+- [Başlıklar](##basliklar)
 
 
-[basliklar]: asdasdasd
+## basliklar
 
 
 
