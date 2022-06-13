@@ -19,6 +19,33 @@ h5 : ##### başlık 5
 h6 : ###### başlık 6
 ```
 
+
+## Liste
+```
+- eleman 1
+- eleman 2
+	- alt eleman 1
+	- alt eleman 2
+
++ eleman 1
++ eleman 2
+```
+- eleman 1
+- eleman 2
+	- alt eleman 1
+	- alt eleman 2
+
++ eleman 1
++ eleman 2
+
+## Tablo
+
+
+
+## Onay kutusu
+
+
+
 ## Tek satırda kod bloğu
 ```
 `Ctrl + c`
@@ -31,9 +58,7 @@ h6 : ###### başlık 6
 ```
 ```[dil]
 
-..
-- kod
-..
+.. kod
 
 ```‏‏‏‏‏‏‏‏   
 ```
