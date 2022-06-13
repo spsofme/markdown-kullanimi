@@ -27,8 +27,10 @@ h6 : ###### başlık 6
 	- alt eleman 1
 	- alt eleman 2
 
-+ eleman 1
-+ eleman 2
+1. eleman 1
+	1. alt eleman 1
+	2. alt eleman 2
+2. eleman 2
 ```
 - eleman 1
 - eleman 2
@@ -36,11 +38,19 @@ h6 : ###### başlık 6
 	- alt eleman 2
 
 1. eleman 1
-	1. eleman 1
-	2. eleman 2
+	1. alt eleman 1
+	2. alt eleman 2
 2. eleman 2
 
+
+
 ## Tablo
+| servis | port |
+| ------ | ---- |
+| ftp | 21 |
+| ssh | 22 |
+| telnet | 23 |
+| http | 80 |
 
 
 
