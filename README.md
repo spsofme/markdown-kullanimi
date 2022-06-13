@@ -7,6 +7,8 @@
 	- [Uyarı](#uyarı)
 - a
 
+---
+
 ## Başlıklar
 ```md
 h1 : # başlık 1
@@ -17,11 +19,10 @@ h5 : ##### başlık 5
 h6 : ###### başlık 6
 ```
 
+---
+
 ## Çok satırlı kod bloğu
 ```md
-```cpp
-```
-```
 ```cpp
 #include <iostream>
 using namespace std;
@@ -34,6 +35,22 @@ int main() {
 	return 0;
 }
 ```
+```
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+	int sayi;
+	cout << "bir sayi girin: ";
+	cin >> sayi;
+	cout << "girdiginiz sayi: " << sayi;
+	return 0;
+}
+```
+
+---
 
 ## Beta
 ### Not
