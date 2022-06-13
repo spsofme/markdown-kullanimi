@@ -14,6 +14,7 @@
 - [Kod blokları](#kod-blokları)
 	- [Satır içi kod](#satır-içi-kod) 
 	- [Kod bloğu](#kod-bloğu)
+- [Daraltılmış bölüm](#daraltılmış-bölüm)
 - [Çizgi ekleme](#çizgi-ekleme)
 - [BETA](#beta)
 	- [Not](#not)
@@ -131,6 +132,15 @@ int main() {
 	return 0;
 }
 ```
+
+
+
+## Daraltılmış bölüm
+<details><summary>Tıkla</summary>
+<p>
+Metin
+</p>
+</details>
 
 
 
