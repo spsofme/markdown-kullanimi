@@ -1,4 +1,4 @@
-# Markdown Notları
+# Markdown Kullanımı
 
 ### İçerik
 - [Metin biçimlendirme](#metin-biçimlendirme)
