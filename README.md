@@ -7,9 +7,10 @@
 - [Onay kutusu](#onay-kutusu)
 - [Link oluşturma](#link)
 - [Resim ekleme](#resin)
-- [Kod blokları]
+- [Kod blokları](#kod-blokları)
 	- [Satır içi kod](#satır-içi-kod) 
 	- [Kod bloğu](#kod-bloğu)
+- [Çizgi ekleme](#çizgi-ekleme)
 - [BETA](#beta)
 	- [Not](#not)
 	- [Uyarı](#uyarı)
@@ -116,6 +117,13 @@ int main() {
 }
 ```
 
+
+
+## Çizgi ekleme
+```
+---
+```
+önek: ---
 
 
 ## Beta
