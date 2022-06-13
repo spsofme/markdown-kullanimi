@@ -4,6 +4,7 @@
 - [Başlıklar](#başlıklar)
 - [Liste](#liste)
 - [Tablo](#tablo)
+- [Onay kutusu](#onay-kutusu)
 - [Çok satırlı kod bloğu](#çok-satırlı-kod-bloğu)
 - [BETA](#beta)
 	- [Not](#not)
