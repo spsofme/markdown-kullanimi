@@ -19,15 +19,13 @@ h5 : ##### başlık 5
 h6 : ###### başlık 6
 ```
 
----
-
 ## Tek satırda kod bloğu
 ```
 `Ctrl + c`
 ```
 örn: `Ctrl + c`
 
----
+
 
 ## Çok satırlı kod bloğu
 ```
@@ -53,7 +51,7 @@ int main() {
 }
 ```
 
----
+
 
 ## Beta
 ### Not
