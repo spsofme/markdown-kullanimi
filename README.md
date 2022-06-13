@@ -5,7 +5,11 @@
 - [Liste](#liste)
 - [Tablo](#tablo)
 - [Onay kutusu](#onay-kutusu)
-- [Çok satırlı kod bloğu](#çok-satırlı-kod-bloğu)
+- [Link oluşturma](#link)
+- [Resim ekleme](#resin)
+- [Kod blokları]
+	- [Satır içi kod](#satır-içi-kod) 
+	- [Kod bloğu](#kod-bloğu)
 - [BETA](#beta)
 	- [Not](#not)
 	- [Uyarı](#uyarı)
@@ -35,6 +39,7 @@ h6 : ###### başlık 6
 	2. alt eleman 2
 2. eleman 2
 ```
+örnek:
 - eleman 1
 - eleman 2
 	- alt eleman 1
@@ -65,15 +70,31 @@ h6 : ###### başlık 6
 
 
 
-## Tek satırda kod bloğu
+## Link oluşturma
+```
+[metin](link)
+```
+örnek: [github/spsofme](https://github.com/spsofme)
+
+
+
+## Resim ekleme
+```
+![metin](resim bağlantısı)
+```
+
+
+
+## Kod blokları
+### Satır içi kod
 ```
 `Ctrl + c`
 ```
-örn: `Ctrl + c`
+örnek: `Ctrl + c`
 
 
 
-## Çok satırlı kod bloğu
+### Kod bloğu
 ```
 ```[dil]
 
@@ -81,7 +102,7 @@ h6 : ###### başlık 6
 
 ```‏‏‏‏‏‏‏‏   
 ```
-örn:
+örnek:
 ```cpp
 #include <iostream>
 using namespace std;
