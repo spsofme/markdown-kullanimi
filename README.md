@@ -2,6 +2,10 @@
 
 ### İçerik
 - [Başlıklar](#başlıklar)
+- [BETA](#beta)
+	- [Not](#not)
+	- [Uyarı](#uyarı)
+- a
 
 ## Başlıklar
 ```md
@@ -13,16 +17,13 @@ h5 : ##### başlık 5
 h6 : ###### başlık 6
 ```
 
-
-> **Note** <br>
-> Note
-
-> **Warning** <br>
-> Warning
-
+## Çok satırlı kod bloğu
+```md
+\`\`\`cpp
+\`\`\`
+```
 ```cpp
 #include <iostream>
-
 using namespace std;
 
 int main() {
@@ -33,3 +34,12 @@ int main() {
 	return 0;
 }
 ```
+
+## Beta
+### Not
+> **Note** <br>
+> Note
+
+### Uyarı
+> **Warning** <br>
+> Warning
