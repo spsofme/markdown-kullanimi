@@ -88,7 +88,7 @@ h6 : ###### başlık 6
 
 
 ## Link oluşturma
-`[metin](link)` şeklinde link oluşturulabilir. Ayrıca link'e title özelliği eklemek istersek `[metin](link "title")` şeklinde kullanabiliriz.
+`[metin](link)` şeklinde link oluşturulabilir. Ayrıca link'e title özelliği eklemek istersek `[metin](link "title")` şeklinde kullanabiliriz. <br>
 normal link     : [github/spsofme](https://github.com/spsofme) <br>
 title özellikli : [github/spsofme](https://github.com/spsofme "github adresim")
 
