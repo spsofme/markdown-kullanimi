@@ -24,17 +24,10 @@ h6 : ###### başlık 6
 ## Çok satırlı kod bloğu
 ```
 ```[dil]
-#include <iostream>
-using namespace std;
-
-int main() {
-	int sayi;
-	cout << "bir sayi girin: ";
-	cin >> sayi;
-	cout << "girdiginiz sayi: " << sayi;
-	return 0;
-}
-```.
+...
+- kod
+...
+```	
 ```
 örn:
 ```cpp
