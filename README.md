@@ -1,6 +1,10 @@
 # Markdown Notları
 
 ### İçerik
+- [Metin biçimlendirme](#metin-biçimlendirme)
+	- [Kalın](#kalın)
+	- [İtalik](#italik)
+	- [Üstü çizili](#üstü-çizili)
 - [Başlıklar](#başlıklar)
 - [Liste](#liste)
 - [Tablo](#tablo)
@@ -16,6 +20,20 @@
 	- [Uyarı](#uyarı)
 
 ---
+[Bana tıkla!](http://test.com "Test.com'a gider")
+
+
+## Metin biçimlendirme
+### Kalın
+`**metin**` : **metin**
+
+### İtalik
+`*metin*` : *metin*
+
+### Üstü çizili
+`~~metin~~` : ~~metin~~
+
+
 
 ## Başlıklar
 ```md
@@ -123,7 +141,8 @@ int main() {
 ```
 ---
 ```
-önek: ---
+örnek:
+---
 
 
 ## Beta
