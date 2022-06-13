@@ -5,8 +5,16 @@
 > **Warning** <br>
 > Warning
 
-```c
-int a = 0;
-if (a < 5)
-  a++;
+```cpp
+#include <iostream>
+
+using namespace std;
+
+int main() {
+	int sayi;
+	cout << "bir sayi girin: ";
+	cin >> sayi;
+	cout << "girdiginiz sayi: " << sayi;
+	return 0;
+}
 ```
