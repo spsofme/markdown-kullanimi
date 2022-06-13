@@ -3,7 +3,7 @@
 ### İçerik
 - [Başlıklar](#başlıklar)
 
-<span style="display:block; text-align:center;">deneme</span>
+<span style="display:block; text-align:center; color:blue;">deneme</span>
 
 ## Başlıklar
 
