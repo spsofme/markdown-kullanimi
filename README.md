@@ -72,6 +72,15 @@ h6 : ###### başlık 6
 
 
 ## Tablo
+```
+| servis | port |
+| ------ | ---- |
+| ftp | 21 |
+| ssh | 22 |
+| telnet | 23 |
+| http | 80 |
+```
+örnek:
 | servis | port |
 | ------ | ---- |
 | ftp | 21 |
@@ -82,6 +91,13 @@ h6 : ###### başlık 6
 
 
 ## Onay kutusu
+```
+- [ ] Ders çalış
+- [x] Oyun oyna
+- [ ] Evi temizle
+- [x] Dinlen
+```
+örnek:
 - [ ] Ders çalış
 - [x] Oyun oyna
 - [ ] Evi temizle
