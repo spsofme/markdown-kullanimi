@@ -185,9 +185,19 @@ int main() {
 
 ## Beta
 ### Not
+```
+> **Note** <br>
+> Note
+```
+örnek:
 > **Note** <br>
 > Note
 
 ### Uyarı
+```
+> **Warning** <br>
+> Warning
+```
+örnek:
 > **Warning** <br>
 > Warning
